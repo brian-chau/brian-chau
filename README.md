@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brian-chau
 - 👀 I’m interested in data processing, automation, and Linux.
 - 🌱 I’m currently learning C++, Go, Python, Rust, and Linux.
-- 💞️ I’m looking to collaborate on open source apps.
+- 💞️ I’m looking to work on data processing projects.
 - 📫 How to reach me:
 
 * https://hachyderm.io/@brianchau
