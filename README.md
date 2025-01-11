@@ -6,6 +6,7 @@
 
 * https://hachyderm.io/@brianchau
 * https://www.linkedin.com/in/brian-j-chau
+* https://bsky.app/profile/brianchau.bsky.social
 
 
 <!---
